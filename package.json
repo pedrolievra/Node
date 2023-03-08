@@ -1,0 +1,16 @@
+{
+  "name": "projeto",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "projeto",
+  "main": "projeto.js",
+  "scripts": {
+    "dev": "node --watch projeto.js"
+  },
+  "author": "matheus",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
