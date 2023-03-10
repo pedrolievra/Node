@@ -5,7 +5,7 @@
   "description": "projeto",
   "main": "projeto.js",
   "scripts": {
-    "dev": "node --watch projeto.js"
+    "dev": "node --watch src/projeto.js"
   },
   "author": "matheus",
   "license": "ISC",
